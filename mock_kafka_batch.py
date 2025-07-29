@@ -2,7 +2,7 @@
 
 from dvr_controller import process_data
 
-# Simulated micro-batch of incoming sensor data
+# Simulated micro-batch of incoming sensorr data
 data_batch = [
     {"sensor_id": 1, "value": 25},
     {"sensor_id": 2, "value": 110},   # Invalid value

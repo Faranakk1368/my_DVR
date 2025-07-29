@@ -2,7 +2,7 @@ from dvr_stats import run_statistical_checks
 from dvr_reconciliation import reconcile_data
 
 def process_data(record):
-    # Step 1: Statistical check
+    # Step 1: Statistical checkk
     run_statistical_checks(record)
 
     # Step 2: Reconciliation
