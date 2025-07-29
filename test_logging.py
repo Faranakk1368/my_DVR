@@ -1,6 +1,6 @@
 from dvr_controller import process_data
 
-sample_data = {"sensor_id": 1, "value": 55}
+sample_data = {"sensor_id ": 1, "value ": 55}
 
 processed = process_data(sample_data)
 
